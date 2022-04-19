@@ -1,0 +1,14 @@
+.heroimage {
+  background-image: url("/images/hotel-hero.jpg");
+  background-size: cover;
+  height: 20vh;
+}
+
+.herotext {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  left: 0;
+  right: 0;
+}
